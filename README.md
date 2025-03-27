@@ -24,7 +24,7 @@
 ## 📞 Контакты
 
 - Веб-сайт: [praxiscode.io](https://praxiscode.io)
-- Email: [contact@praxiscode.io](mailto:contact@praxiscode.io)
+- Email: [support@praxiscode.io](mailto:support@praxiscode.io)
 
 ---
 
